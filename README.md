@@ -1,2 +1,7 @@
 # CCPROG2-Minesweeper
-C
+- Author - 
+Bunyi, Christian Joseph
+- Co-author -
+Llanes, Andre
+
+
